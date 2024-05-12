@@ -1,4 +1,4 @@
-package com.example;
+package com.github.11jt.examplemod;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
