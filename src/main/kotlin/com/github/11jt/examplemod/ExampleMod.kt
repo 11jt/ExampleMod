@@ -1,4 +1,4 @@
-package com.example
+package com.github.11jt.examplemod
 
 import net.minecraft.client.Minecraft
 import net.minecraft.init.Blocks
